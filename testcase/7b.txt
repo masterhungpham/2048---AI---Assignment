@@ -1,2 +1,0 @@
-enQueue(p,q);
-BFS(q,8,4);
