@@ -1,0 +1,2 @@
+pushStack(st,p);
+DFS(st,32,9);
